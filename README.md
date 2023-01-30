@@ -1,4 +1,4 @@
-### Hi there I'm Babalola Rotimi aka dev.babs
+### Hi there I'm Babalola Rotimi 
 
 <!--
 This is my personal respository
