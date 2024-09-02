@@ -12,5 +12,5 @@ Other: Git, GitHub
 Contact
 📧 Email: feyibabalola2000@gmail.com
 🔗 LinkedIn: [Rotimi Babalola](https://www.linkedin.com/in/rotimi-babalola-a41768248/)
-🌐 Website: https://devbabs.vercel.app/
+🌐 Website: https://rotimibabalola.vercel.app/
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss any opportunities!
